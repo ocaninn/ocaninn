@@ -1,7 +1,7 @@
 # Hi, I'm Lucas 👋
 
-I'm a 2nd-year college student learning **C#** and **.NET**, with some background in Python.
-I'm documenting my progress by building small projects and writing down what each one taught me.
+I'm studying for a **BSc (Hons) in Computing at Dublin Business School**, after several years working in graphic design and art direction on campaigns for brands like Land Rover and Kia.
+Now I'm combining that creative background with code and data, and documenting my progress by building small projects and writing down what each one taught me.
 
 ## 🛠️ What I'm working on
 
@@ -25,3 +25,7 @@ I plan before I code, test the edge cases, and write a short README for every pr
 ## 🧰 Tools
 
 C# · .NET · Python · Git · GitHub · VS Code
+
+## 🌍 Languages
+
+Portuguese (native) · English (C1) · French (B2) · Spanish (B1) ·
