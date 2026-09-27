@@ -28,4 +28,4 @@ C# · .NET · Python · Git · GitHub · VS Code
 
 ## 🌍 Languages
 
-Portuguese (native) · English (C1) · French (B2) · Spanish (B1) ·
+Portuguese (native) · English (C2) · French (B2) · Spanish (B1) ·
