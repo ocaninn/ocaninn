@@ -15,6 +15,8 @@ Now I'm combining that creative background with code and data, and documenting m
 | --- | --- | --- |
 | [Shop Receipt](https://github.com/ocaninn/csharp-learning/tree/main/Shop) | Calculates line totals, a running total and a discount | Methods, loops, `TryParse` validation |
 | [Bank Account](https://github.com/ocaninn/csharp-learning/tree/main/bankaccount) | Menu-driven account with deposits and withdrawals | Menu loops, shared state, combining conditions |
+| [Bank Account — Version 2](BankAccountV2/) | Rebuilds the bank account app with classes, objects and encapsulation. | classes, objects, constructors, encapsulation |
+
 
 All my C# exercises are in [**csharp-learning**](https://github.com/ocaninn/csharp-learning).
 
